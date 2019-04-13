@@ -1,0 +1,13 @@
+name        = "AllinOne"
+license     = "MIT"
+licenselink = "https://github.com/seuite/hugo-susan-theme/blob/master/LICENSE"
+description = "All you need for a blog in one template."
+homepage    = "https://github.com/seuite/hugo-susan-theme"
+customdemo  = "https://seuite.github.io"
+tags        = ["blog", "personal"]
+features    = ["full image carousel", "hierachical toc", "katex"]
+min_version = 0.46
+
+[author]
+  name      = "SEUITE"
+  homepage  = "https://seuite.github.io/"
